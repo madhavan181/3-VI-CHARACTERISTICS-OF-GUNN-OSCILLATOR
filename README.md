@@ -55,18 +55,19 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 **B.Observation: ( Include your own Table relevant to the Experiment)** (Include Tabulation Part)
 
-**C.Analysis of Results: (Write your own)**
+<img width="936" height="423" alt="image" src="https://github.com/user-attachments/assets/e9d15a0f-4b39-4708-bdfa-1ada5f2bd374" />
+<img width="1129" height="1507" alt="image" src="https://github.com/user-attachments/assets/d2240cca-3942-4ed6-9911-b8dbc327ae61" />
 
-(Include sample calculations/Display/plot/typical graph)
+C.Analysis of Results:
 
-**D.Conclusions: (Write  your Own)**
+The I–V characteristics showed a distinct negative resistance region, confirming Gunn effect operation, and the measured frequency and power output increased with appropriate biasing, validating the diode’s microwave generation behavior.
 
-**Precautions:**
+D.Conclusions:
 
-•	Check the connections before switching on the kit.
-•	Connections should be done properly.
-•	Observation should be taken properly.
+The experiment confirmed Gunn diode operation through its negative resistance region and showed that proper biasing enables stable microwave frequency and power generation.
 
-**Result:**
+Precautions:
 
-Thus,the experiment is studied and verified
+• Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
+
+Result: Hence characteristics of gunn oscillator is successfuly done.
